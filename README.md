@@ -1,0 +1,1 @@
+Smart Assistant using Computer Vision – Built an AI-powered assistant that integrates computer vision (CNN + OpenCV) to recognize objects and process real-time camera input. Designed and implemented core functionalities including image recognition, smart decision-making, and interactive response handling. Technologies used: Python, OpenCV, TensorFlow/PyTorch.
